@@ -41,8 +41,8 @@ Sistema de gestión de proyectos y trabajadores. Simple, rápido y efectivo.
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone <url-del-repositorio>
-   cd prueba-seicho
+   git clone https://github.com/nicolas-000/PlainPlan.git
+   cd PlainPlan
    ```
 
 2. **Instalar dependencias:**
